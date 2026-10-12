@@ -91,9 +91,9 @@ Then depend on the modules you need:
 
 ```kotlin
 dependencies {
-    implementation("com.github.narakai.SynthezKit-Android:synthez:0.1.0")
+    implementation("com.github.narakai.SynthezKit-Android:synthez:0.1.1")
     // Compose wrapper (pulls in synthez)
-    implementation("com.github.narakai.SynthezKit-Android:synthez-compose:0.1.0")
+    implementation("com.github.narakai.SynthezKit-Android:synthez-compose:0.1.1")
 }
 ```
 

@@ -8,5 +8,5 @@ plugins {
 // Coordinates for JitPack: com.github.narakai.SynthezKit-Android:<module>:<tag>
 allprojects {
     group = "com.github.narakai.SynthezKit-Android"
-    version = "0.1.0"
+    version = "0.1.1"
 }
