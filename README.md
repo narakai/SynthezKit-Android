@@ -134,10 +134,6 @@ adb shell am start -n com.leon.synthez.sample/.MainActivity --es page CRT --ez c
 ./gradlew :sample:installDebug
 ```
 
-## Used in
-
-- [Radikun](https://play.google.com/store/apps/details?id=com.leon.radikun), a Japanese radio player, for its retro theme.
-
 ## Acknowledgements
 
 - [SynthezKit](https://github.com/Lakr233/SynthezKit) by Lakr233 (MIT): this project is a port of it, and its design, API and widgets come from there.
