@@ -1,0 +1,4 @@
+jdk:
+  - openjdk17
+install:
+  - ./gradlew :synthez:publishToMavenLocal :synthez-compose:publishToMavenLocal

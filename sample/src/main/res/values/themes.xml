@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Synthez" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/synth_background</item>
+        <item name="android:colorBackground">@color/synth_background</item>
+    </style>
+
+    <color name="synth_background">#FF14110F</color>
+</resources>
